@@ -11,7 +11,7 @@ clickjacking = False
 print"""
 +-----------------------------------+
 |         Clickjacking              |
-|           By: Junk Security       |
+|           By: Rudra Sarkar        |
 +-----------------------------------+"""
 
 class ClickjackingTest(object):
